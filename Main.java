@@ -1,4 +1,8 @@
 /*
+ *Author: xiaoyue ma
+ * Email: xma333@wisc.edu
+ * CS Account: xiaoyue
+ *
  * Test the use of the Color method
  */
 import java.util.*;

@@ -1,5 +1,8 @@
 /*
- *	Color class
+ *Author: xiaoyue ma
+ Email:xma333@wisc.edu
+ *CS Account: xiaoyue
+ * Color class
  */
 public class Color{
 	private String color;
